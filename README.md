@@ -49,7 +49,7 @@ The users should be able to:
 
 ### What I learned
 
-- This project is the second Front Ed project that I made. Was a great exercise for CSS layout.
+- This project is the second Front End project that I made. Was a great exercise for CSS layout.
 
 
 ### What can be improve
