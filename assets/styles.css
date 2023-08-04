@@ -485,6 +485,11 @@
     margin-top: 400px;
     margin-bottom: 400px;
   }
+
+  .content-header-box {
+    margin-top: 140px;
+  }
+
 }
 
 @media only screen and (min-width: 2048px) {
@@ -522,5 +527,10 @@
   .main-content-container {
     margin-top: 400px;
     margin-bottom: -400px;
+  }
+
+  .content-header-box {
+    position: relative;
+    top: 140px;
   }
 }
